@@ -1,0 +1,39 @@
+{
+  "ModId": "p3rpc.skins.pq2portraits_femc",
+  "ModName": "PQ2 Battle Portraits - FeMC Edition",
+  "ModAuthor": "junior",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Chibi party portraits (w FeMC over Makoto)!",
+  "ModDll": "",
+  "ModIcon": "junpeipanel(1).png",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "p3rpc.skins.pq2portraits_femc.ReleaseMetadata.json",
+  "PluginData": {
+    "GitHubRelease": {
+      "UserName": "junior-SM",
+      "RepositoryName": "PQ2-Party-Panels",
+      "UseReleaseTag": true,
+      "AssetFileName": "p3rpc.skins.pq2portraits_femc.zip"
+    },
+    "GameBanana": {
+      "ItemType": "Mod",
+      "ItemId": 501212
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "UnrealEssentials"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "p3r.exe"
+  ],
+  "ProjectUrl": "https://gamebanana.com/mods/501212"
+}
